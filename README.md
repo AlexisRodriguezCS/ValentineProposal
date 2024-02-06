@@ -74,6 +74,8 @@ _Software used to run the program._
 
 - [Visusal Studio Code](https://code.visualstudio.com/)
 
+- [Node/Npm](https://nodejs.org/en)
+
 - [Git](https://git-scm.com/)
 
 ### Installation
