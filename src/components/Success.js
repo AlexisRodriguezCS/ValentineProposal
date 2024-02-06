@@ -19,7 +19,7 @@ const Success = () => (
       Looking forward to spending Valentine's Day with you, Jocelyn.
     </p>
     {/* Displaying the date of the special moment */}
-    <p className="App-text-date">12/28/2023</p>
+    <p className="App-text-date">12/23/2023</p>
   </div>
 );
 
