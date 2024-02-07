@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlexisRodriguezCS/ValentineProposal/main/images/heart.jpg" alt="Grid" style="display:block;margin:auto;" height="500">
 </p>
-<h1 align="center">A Special Message for Jocelyn</h1>
+<h1 align="center">A Special Message</h1>
 
 <!-- TABLE OF CONTENTS -->
 <p align="center">
@@ -26,7 +26,7 @@ This special project is a heartfelt expression of love and creativity crafted fo
 
 The frontend of the application is hosted on Netlify.
 **You can access the live website at this link:
-<a href="https://jocelynsvalentinesurprise.netlify.app/" target="_blank">A Special Message for Jocelyn</a>**
+<a href="https://jocelynsvalentinesurprise.netlify.app/" target="_blank">A Special Message</a>**
 
 ### Key Technologies Used
 
